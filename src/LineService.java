@@ -4,8 +4,7 @@ public class LineService {
 
     public static String lineRotationOutput(String inputLine) {
         StringBuilder builder = new StringBuilder(inputLine);
-        String lineOut = String.valueOf(builder.reverse());
-        return lineOut;
+        return String.valueOf(builder.reverse());
     }
 
     public static void lineRotationRepeat(String stringIn, long num) {
