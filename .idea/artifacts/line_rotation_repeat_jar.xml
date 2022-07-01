@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="line_rotation_repeat:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/line_rotation_repeat_jar</output-path>
+    <root id="archive" name="line_rotation_repeat.jar">
+      <element id="module-output" name="line_rotation_repeat" />
+    </root>
+  </artifact>
+</component>
